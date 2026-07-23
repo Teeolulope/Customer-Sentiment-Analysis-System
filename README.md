@@ -61,8 +61,14 @@ A sample customer feedback dataset containing ratings and complaint history for 
 
 ## Sample Output
 
-![Sample Output](images/sample_out
-put.png)
+<img width="1252" height="389" alt="Screenshot 2026-07-23 234433" src="https://github.com/user-attachments/assets/762abeb5-f443-4818-8b31-ecfa5592da04" />
+<img width="1256" height="443" alt="Screenshot 2026-07-23 234340" src="https://github.com/user-attachments/assets/e8ad9d98-b997-43ec-9a03-83c0be60dbea" />
+<img width="1247" height="420" alt="Screenshot 2026-07-23 234513" src="https://github.com/user-attachments/assets/9dc45434-80bb-4560-865a-91f497ed36c3" />
+<img width="1250" height="370" alt="Screenshot 2026-07-23 234541" src="https://github.com/user-attachments/assets/b37af2bd-4eaa-4733-bb97-340196f8555b" />
+<img width="1241" height="374" alt="Screenshot 2026-07-23 234617" src="https://github.com/user-attachments/assets/d24fa56b-4cfd-4af9-b3b4-9983526e9450" />
+<img width="1241" height="456" alt="Screenshot 2026-07-23 234658" src="https://github.com/user-attachments/assets/1ebe01d2-9097-4551-9ec0-f02e6c6a5487" />
+<img width="1243" height="366" alt="Screenshot 2026-07-23 234720" src="https://github.com/user-attachments/assets/bb361d74-a391-40cc-9838-232970fddf22" />
+
 
 ## How to Run
 
