@@ -1,5 +1,5 @@
 # Customer-Sentiment-Analysis-System
-A Python-based customer feedback analysis project that evaluates customer satisfaction, complaint levels, follow-up requirements, and brand advocacy using conditional logic.
+A Python-based customer feedback analysis project that evaluates customer satisfaction, complaint levels, follow-up requirements, and brand advocacy.
 ## Introduction
 
 This project is a Python case study on customer sentiment analysis for customer experience decision support. Modern customer support and CRM platforms rely heavily on software to analyze feedback data and support better decisions about who needs follow-up and who deserves recognition. This project evaluates feedback from two customers (Grace Okafor and Ibrahim Bello) using predefined rules to determine satisfaction levels and whether immediate follow-up or special appreciation is required.
