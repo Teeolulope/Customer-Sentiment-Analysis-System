@@ -1,5 +1,5 @@
 # Customer-Sentiment-Analysis-System
-
+A Python-based customer feedback analysis project that evaluates customer satisfaction, complaint levels, follow-up requirements, and brand advocacy using conditional logic.
 ## Introduction
 
 This project is a Python case study on customer sentiment analysis for customer experience decision support. Modern customer support and CRM platforms rely heavily on software to analyze feedback data and support better decisions about who needs follow-up and who deserves recognition. This project evaluates feedback from two customers (Grace Okafor and Ibrahim Bello) using predefined rules to determine satisfaction levels and whether immediate follow-up or special appreciation is required.
@@ -62,7 +62,7 @@ A sample customer feedback dataset containing ratings and complaint history for 
 ## Sample Output
 <img width="1256" height="443" alt="Screenshot 2026-07-23 234340" src="https://github.com/user-attachments/assets/e8ad9d98-b997-43ec-9a03-83c0be60dbea" />
 <img width="1252" height="389" alt="Screenshot 2026-07-23 234433" src="https://github.com/user-attachments/assets/762abeb5-f443-4818-8b31-ecfa5592da04" />
-<img width="1247" height="420" alt="Screenshot 2026-07-23 234513" src="https://github.com/user-attachments/assets/bd1edc2c-7565-4ae0-8761-d12d27706bd9" />
+<img width="1225" height="326" alt="Screenshot 2026-07-24 000108" src="https://github.com/user-attachments/assets/ccc1ca02-8d9a-4a8a-8faf-4d2f4b898a82" />
 <img width="1247" height="420" alt="Screenshot 2026-07-23 234513" src="https://github.com/user-attachments/assets/9dc45434-80bb-4560-865a-91f497ed36c3" />
 <img width="1250" height="370" alt="Screenshot 2026-07-23 234541" src="https://github.com/user-attachments/assets/b37af2bd-4eaa-4733-bb97-340196f8555b" />
 <img width="1241" height="374" alt="Screenshot 2026-07-23 234617" src="https://github.com/user-attachments/assets/d24fa56b-4cfd-4af9-b3b4-9983526e9450" />
@@ -74,16 +74,11 @@ A sample customer feedback dataset containing ratings and complaint history for 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Teeolulope/Customer-Sentiment-Analysis-System.git
    ```
-2. Open `Gift 1.ipynb` in Jupyter Notebook or JupyterLab.
+2. Open `Customer-Sentiment-Analysis.ipynb` in Jupyter Notebook or JupyterLab.
 3. Run all cells from top to bottom to reproduce the analysis and printed reports.
 
-## Repository Structure
-
-- **README.md** – Project overview and case study summary.
-- **Gift 1.ipynb** – Python notebook containing the analysis.
-- **images/** – Screenshots referenced in this README (add after uploading your notebook output screenshot).
 
 ## Author
 
