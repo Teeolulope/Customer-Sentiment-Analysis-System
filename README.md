@@ -18,11 +18,11 @@ The objectives of this project are to:
 - Identify brand advocates and customers who deserve special appreciation.
 
 ## Data Source
-
 A sample customer feedback dataset containing ratings and complaint history for two customers:
 
-- Grace Okafor (Wireless Headphones)
-- Ibrahim Bello (Smart Watch)
+<img width="636" height="534" alt="Screenshot 2026-07-23 231738" src="https://github.com/user-attachments/assets/6257b451-b750-42db-ac0b-7d75f761ac4d" />
+<img width="486" height="523" alt="Screenshot 2026-07-23 231753" src="https://github.com/user-attachments/assets/52bc13e2-a3a3-4b61-9602-8f849e222e98" />
+
 
 ## Tools Used
 
